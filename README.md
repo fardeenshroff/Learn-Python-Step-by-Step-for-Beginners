@@ -1,1 +1,1 @@
-# learn-python-steb-by-step
+# learn-python-step-by-step
