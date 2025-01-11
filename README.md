@@ -73,7 +73,7 @@ is_student = True  # bool
 
 ---
 
-# 4. Control Flow
+**## 4. Control Flow**
 
 Control flow allows you to make decisions in your code.
 
