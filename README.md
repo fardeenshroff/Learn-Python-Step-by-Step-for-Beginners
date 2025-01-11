@@ -220,7 +220,7 @@ except ZeroDivisionError:
 finally:
     print("This will always run.")
 
-**[Detailed Understanding of File Handling](https://realpython.com/python3-object-oriented-programming/)**
+**[Detailed Understanding of Error And Exception Handling](https://docs.python.org/3/tutorial/errors.html)**
 
 ---
 
@@ -238,7 +238,7 @@ print(math.sqrt(16))
 Installing External Libraries: To install external libraries, use the pip package manager:
 pip install numpy pandas matplotlib
 
-**[Detailed Understanding of File Handling](https://realpython.com/python3-object-oriented-programming/)**
+**[Detailed Understanding of Modules](https://realpython.com/python3-object-oriented-programming/)**
 
 ---
 
