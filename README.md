@@ -4,6 +4,7 @@
 
 Welcome to the ultimate beginner's guide to Python programming! This repository provides a structured, detailed learning path for beginners to gain a solid foundation in Python, with examples, resources, and exercises.
 "Detailed Understanding" links at the end of each section. These links will lead to detailed explanations and examples for the respective topics, making it easier for students to dive deeper into the concepts.
+
 ---
 
 ## Table of Contents
