@@ -179,7 +179,3 @@ Welcome to the ultimate beginner's guide to Python programming! This repository 
 **[Detailed Understanding of Object-Oriented Programming](https://realpython.com/python3-object-oriented-programming/)**
 
 ---
-
-
-
-
