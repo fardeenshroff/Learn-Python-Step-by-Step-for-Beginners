@@ -196,7 +196,7 @@ with open("file.txt", "w") as file:
     file.write("Hello, World!")
 
 
-**[Detailed Understanding of File Handling](https://realpython.com/python3-object-oriented-programming/)**
+**[Detailed Understanding of File Handling]([https://realpython.com/read-write-files-python/)**
 
 ---
 
