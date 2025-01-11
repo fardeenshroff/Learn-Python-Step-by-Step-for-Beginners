@@ -179,3 +179,73 @@ Welcome to the ultimate beginner's guide to Python programming! This repository 
 **[Detailed Understanding of Object-Oriented Programming](https://realpython.com/python3-object-oriented-programming/)**
 
 ---
+
+## 8. File Handling
+File handling in Python allows you to interact with files on your system, enabling operations such as reading, writing, and appending data. Here are some common file handling operations in Python:
+
+### Code Examples:
+- *Reading from a File*:
+  ```python
+  with open("file.txt", "r") as file:
+      content = file.read()
+      print(content)
+
+Writing to a File:
+
+with open("file.txt", "w") as file:
+    file.write("Hello, World!")
+
+
+**[Detailed Understanding of File Handling](https://realpython.com/python3-object-oriented-programming/)**
+
+---
+
+## 9. Error and Exception Handling
+
+Exception handling allows you to manage errors and exceptions, preventing your program from crashing unexpectedly. It helps ensure that errors are caught and handled gracefully.
+
+### Code Examples:
+Try-Except Block:
+try:
+    x = 10 / 0
+except ZeroDivisionError:
+    print("Cannot divide by zero!")
+
+Finally Block:
+
+try:
+    x = 10 / 2
+except ZeroDivisionError:
+    print("Cannot divide by zero!")
+finally:
+    print("This will always run.")
+
+**[Detailed Understanding of File Handling](https://realpython.com/python3-object-oriented-programming/)**
+
+---
+
+## 10. Modules and Libraries
+
+Python provides a rich set of built-in modules and libraries. You can extend your Python programs by importing these modules, and you can also install third-party libraries to expand functionality.
+
+### Code Examples:
+
+Using a Built-in Module:
+
+import math
+print(math.sqrt(16))
+
+Installing External Libraries: To install external libraries, use the pip package manager:
+pip install numpy pandas matplotlib
+
+**[Detailed Understanding of File Handling](https://realpython.com/python3-object-oriented-programming/)**
+
+---
+
+Disclaimer
+
+The links, resources, PDFs, and other downloadable content shared in this repository are intended solely for educational purposes. Full credit and ownership of these resources belong to their respective authors, creators, or contributors.
+
+If you are the rightful owner of any resource and would like it removed, please connect, and will take prompt action to comply with your request.
+
+---
