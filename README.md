@@ -29,8 +29,6 @@ Learn about Python's versatility, its history, and why it has become one of the 
 - [History of Python](https://en.wikipedia.org/wiki/Python_(programming_language)#History)
 - [Python 2 vs Python 3](https://www.educba.com/python-2-vs-python-3/)
 
-### Downloads
-[Download Chapter 1: Introduction to Python](#)
 
 ### Exercise:
 Write a Python script that prints "Hello, World!".
@@ -47,8 +45,6 @@ Get started by setting up Python and the necessary tools for development on macO
 - [Setting Up an IDE (PyCharm, VS Code, or Jupyter Notebook)](https://code.visualstudio.com/Docs/languages/python)
 - [Using Virtual Environments](https://docs.python.org/3/tutorial/venv.html)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Environment Setup Instructions
 - **macOS:** Follow [this guide](https://docs.python-guide.org/starting/install3/osx/) to install Python on macOS.
@@ -71,8 +67,6 @@ This chapter covers Python’s fundamentals, including variables, data types, op
 - [Control Flow Statements (if, else, loops)](https://www.w3schools.com/python/python_conditions.asp)
 - [Functions and Parameters](https://www.learnpython.org/en/Functions)
 
-### Downloads
-[Download Chapter 3: Python Basics](#)
 
 ### Exercise:
 Write a program to calculate the sum of all even numbers between 1 and 100.
@@ -90,8 +84,6 @@ Python supports object-oriented programming. This chapter introduces the key OOP
 - [Encapsulation and Polymorphism](https://www.tutorialspoint.com/python/python_classes_objects.htm)
 - [Abstract Classes and Interfaces](https://docs.python.org/3/library/abc.html)
 
-### Downloads
-[Download Chapter 4: Object-Oriented Programming](#)
 
 ### Exercise:
 Create a class to represent shapes. Implement inheritance for specific shapes like Circle and Rectangle, including methods to calculate the area.
@@ -109,8 +101,6 @@ Learn Python’s built-in data structures and common algorithms that help solve 
 - [Sorting and Searching Algorithms](https://www.geeksforgeeks.org/python-program-for-binary-search/)
 - [Using Itertools and Other Utility Modules](https://docs.python.org/3/library/itertools.html)
 
-### Downloads
-[Download Chapter 5: Data Structures and Algorithms](#)
 
 ### Exercise:
 Write a Python program to implement binary search on a sorted list.
@@ -127,8 +117,6 @@ Handle runtime errors effectively using Python’s exception handling mechanisms
 - [Try, Except, Finally Blocks](https://realpython.com/python-exceptions/)
 - [Raising Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
 
-### Downloads
-[Download Chapter 6: Error and Exception Handling](#)
 
 ### Exercise:
 Write a program to read a number from the user and handle invalid input (e.g., if the user inputs a non-numeric value).
@@ -145,8 +133,6 @@ Learn to interact with files to read and write data seamlessly in Python.
 - [Working with CSV and JSON](https://docs.python.org/3/library/csv.html)
 - [Pickle for Serialization](https://docs.python.org/3/library/pickle.html)
 
-### Downloads
-[Download Chapter 7: File Input/Output Operations](#)
 
 ### Exercise:
 Write a Python program to merge the contents of two text files into one.
@@ -163,8 +149,6 @@ Explore Python's powerful async features to write non-blocking and concurrent pr
 - [Async Functions and Await](https://realpython.com/async-io-python/)
 - [Using Threads and Processes](https://docs.python.org/3/library/threading.html)
 
-### Downloads
-[Download Chapter 8: Asynchronous Programming](#)
 
 ### Exercise:
 Create an async program that fetches data from two different websites concurrently.
@@ -181,8 +165,6 @@ Python offers libraries like Tkinter and PyQt for building graphical interfaces.
 - [Event Handling](https://www.geeksforgeeks.org/tkinter-application/)
 - [Using PyQt for Advanced GUIs](https://riverbankcomputing.com/software/pyqt/intro)
 
-### Downloads
-[Download Chapter 9: GUI Development](#)
 
 ### Exercise:
 Build a basic GUI calculator using Tkinter.
@@ -199,8 +181,6 @@ Get to know Python’s rich ecosystem of libraries and frameworks for web develo
 - [Web Frameworks (Flask, Django)](https://realpython.com/tutorials/web-development/)
 - [Testing Frameworks (PyTest, Unittest)](https://docs.pytest.org/en/stable/)
 
-### Downloads
-[Download Chapter 10: Libraries and Frameworks](#)
 
 ### Exercise:
 Develop a simple Flask web application that accepts a user input and displays it on a webpage.
@@ -218,3 +198,16 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
